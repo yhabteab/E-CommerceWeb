@@ -62,12 +62,11 @@ header .navbar-brand {
 }
 
 header .nav-link:hover {
-    color: black;
+    color: white;
 }
 
 header .row .col-md-7 {
-    padding: 22vmin 1vmin;
-    padding-bottom: 35vmin;
+    padding: 22vmin 1vmin 35vmin;
 }
 
 header .row .col-md-5 {
